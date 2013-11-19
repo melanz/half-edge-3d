@@ -1,4 +1,4 @@
-region-quadtree-2d
+half-edge-3d
 ==========
 Creates a region quadtree in two dimensions. The region quadtree represents a partition of space in two dimensions by decomposing the region into four equal quadrants, subquadrants, and so on with each leaf node containing data corresponding to a specific subregion.
 
